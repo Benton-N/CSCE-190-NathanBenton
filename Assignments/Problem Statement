@@ -10,11 +10,32 @@ Output: The physical bike or scooter lent to the student:
 
 Specifications: It will be built to make sure people can reach their classes in time  
 
-Test Plan: Implement the system and get survey results about satisfaction with the service and see if there is a change in the number of students late to class. 
+Ethics:  Would want to have tracking on the bikes to prevent them from being stolen which could cause concerns of tracking where students are going. (Would need User agreement) 
+
+Evaluation:
+
+   Functional 
+     - Be able to properly lend out the bikes/scooters
+     - Return process
+     - User location to know where they could rent one 
+
+   Nonfunctional 
+     - App ease of use
+     - Responsive and fast load times
+     - Good UI and look 
+
+
+Test Plan: 
+  - Make sure the app can handle requests coming in at once like a stress test (Input would be sending in multiple requests. Output would be if the app can handle the requests and the speed of which it can)
+  - Implement the system and get survey results about satisfaction with the service (Input is the users satisfaction. Output would be the results and what if they are good)
+  - See if there is a change in the number of students late to class. (Input would be the amount of people late to class while the app is in use v s when the app is not in use. Output would be if there was a change in the results)
+  - Quality of the bike if it was in good condition (Input would be if the user reviewing the bikes condition and the output would be the results of if the bikes can be kept in a good condition)
+
+
+
 
  
 
-Ethics:  Would want to have tracking on the bikes to prevent them from being stolen which could cause concerns of tracking where students are going. (Would need User agreement) 
 
  
 
